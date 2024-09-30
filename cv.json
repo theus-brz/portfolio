@@ -142,6 +142,19 @@
       "skills": ["React Native", "SQLite", "Mobile Development"]
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "State University",
@@ -183,6 +196,140 @@
       ]
     }
   ],
+  "certificates": [
+    {
+      "name": "Full Stack Web Development",
+      "date": "2023-05-01",
+      "issuer": "Online University",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Brazillian Portuguese",
@@ -191,6 +338,56 @@
     {
       "language": "English",
       "fluency": "Professional proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    },
+    {
+      "name": "Weather App",
+      "isActive": true,
+      "description": "A web application that provides weather information for any location.",
+      "highlights": [
+        "Built with JavaScript and OpenWeatherMap API",
+        "Responsive design"
+      ],
+      "url": "https://weatherapp.com"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "A simple task management app to keep track of daily tasks.",
+      "highlights": [
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
+      ],
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
+    },
+    {
+      "name": "E-commerce Site",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
     }
   ],
   "interests": [
