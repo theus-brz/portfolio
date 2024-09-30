@@ -1,120 +1,145 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Matheus Barbosa",
+    "label": "Senior Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "matheus.brbs@gmail.com",
+    "phone": "",
+    "url": "https://theus-brz.github.io/",
+    "summary": "Experienced JavaScript Developer with a focus on NodeJS, Angular, ReactJS and React Native. Passionate about delivering high-performance web and mobile applications and continuously improving technical skills through innovative projects.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "matheus-barbosa-souza",
+        "url": "https://www.linkedin.com/in/matheus-barbosa-souza/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "theus-brz",
+        "url": "https://github.com/theus-brz"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Mojo Trek (Contractor for Domino's Pizza)",
+      "position": "Front-End Developer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Campinas, Brazil",
+      "url": null,
+      "startDate": "2023-01-01",
+      "endDate": "2024-07-01",
+      "summary": "Maintained and enhanced back-office applications, upgraded hybrid apps to React Native, and integrated Azure Functions for better performance.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Improved app performance through React Native upgrades.",
+        "Integrated Azure Functions to reduce operational costs."
       ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
-    }
-  ],
-  "volunteer": [
+      "responsibilities": [
+        "Managed and updated legacy JavaScript codebases.",
+        "Upgraded applications to the latest React Native version.",
+        "Researched and implemented Azure Functions."
+      ],
+      "achievements": [
+        "Reduced downtime by maintaining critical applications.",
+        "Successfully upgraded key apps without major disruptions."
+      ],
+      "skills": ["React Native", "JavaScript", "Azure Functions"]
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "name": "Zup (Consultant for Itaú Bank)",
+      "position": "Senior Front-End Developer",
+      "location_type": "Remote",
+      "location": "Campinas, Brazil",
+      "url": null,
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Led frontend architecture for micro-frontend projects, and developed internal tools using Angular 14 and Nx.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+        "Pioneered the use of micro-frontend architecture in the project."
+      ],
+      "responsibilities": [
+        "Architected and implemented micro-frontends using Nx.",
+        "Led the development of internal tools for insurance consultants.",
+        "Integrated AWS Step Functions for scalable backend services."
+      ],
+      "achievements": [
+        "Increased consultant productivity with high-quality internal tools."
+      ],
+      "skills": ["Angular 14", "Nx", "AWS Step Functions"]
+    },
+    {
+      "name": "Zup (Consultant for Itaú Bank)",
+      "position": "Mid-Level Front-End Developer",
+      "location_type": "Remote",
+      "location": "Campinas, Brazil",
+      "url": null,
+      "startDate": "2020-06-01",
+      "endDate": "2022-01-01",
+      "summary": "Led the development of analytics and A/B testing, and optimized referral tool performance.",
+      "highlights": [
+        "Boosted conversion rates by refining the referral landing page."
+      ],
+      "responsibilities": [
+        "Developed and optimized the referral landing page.",
+        "Implemented A/B testing and monitored results.",
+        "Collaborated with backend teams for smooth data integration."
+      ],
+      "achievements": [
+        "Reduced page load times and improved frontend processes."
+      ],
+      "skills": ["React.js", "Angular", "A/B Testing"]
+    },
+    {
+      "name": "Zup (Consultant for Itaú Bank)",
+      "position": "Junior Front-End Developer",
+      "location_type": "Remote",
+      "location": "Campinas, Brazil",
+      "url": null,
+      "startDate": "2019-06-01",
+      "endDate": "2020-06-01",
+      "summary": "Contributed to customer engagement tool development, integrated SDKs, and supported webview integration.",
+      "highlights": [
+        "Enhanced customer experience by supporting seamless webview integration."
+      ],
+      "responsibilities": [
+        "Assisted in implementing SDK integrations.",
+        "Collaborated on UI/UX improvements.",
+        "Performed basic debugging and troubleshooting."
+      ],
+      "achievements": [
+        "Successfully integrated the initial version of the customer referral tool."
+      ],
+      "skills": ["React.js", "Angular", "SDK Integration"]
+    },
+    {
+      "name": "Allims (Consultant for DataFarm)",
+      "position": "Mobile Developer",
+      "location_type": "Remote",
+      "location": "Campinas, Brazil",
+      "url": null,
+      "startDate": "2018-05-01",
+      "endDate": "2019-06-01",
+      "summary": "Developed mobile apps for farming monitoring and specialized in offline-first applications with SQLite integration.",
+      "highlights": [
+        "Launched successful farming apps on Google Play and Apple App Store."
+      ],
+      "responsibilities": [
+        "Developed and maintained mobile apps using React Native.",
+        "Optimized apps for offline use with SQLite.",
+        "Supported app launches on Google Play and Apple App Store."
+      ],
+      "achievements": [
+        "Improved app usability by ensuring offline functionality."
+      ],
+      "skills": ["React Native", "SQLite", "Mobile Development"]
     }
   ],
   "education": [
@@ -158,207 +183,20 @@
       ]
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    }
-  ],
   "languages": [
     {
-      "language": "English",
+      "language": "Brazillian Portuguese",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "English",
+      "fluency": "Professional proficiency"
     }
   ],
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "keywords": ["AI", "Blockchain"]
     }
   ]
 }
